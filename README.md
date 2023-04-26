@@ -1,2 +1,2 @@
-# My-Project-Five
-Create a Responsive Website Design Using HTML CSS &amp; JavaScript
+# Courses Website
+This website is more interactive because using Bure JavaScript code in all section ln website.
